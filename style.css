@@ -1,0 +1,160 @@
+.border{
+    margin: 100px;
+    width: 5300px;
+    height: 3000px;
+    border: 10px solid black;
+    
+}
+.welcome{
+    margin-top: 70px;
+}
+
+.border1{
+    width: 2000px;
+    height: 2200px;
+    border: 10px solid black;
+    border: double 20px black;
+    padding: 150px;
+    margin-left: 1300px;
+}
+
+.image1{
+    margin-top: 180px;
+    
+}
+
+
+.main_page{
+    background-color: skyblue;
+    margin-top: 80px;
+}
+.head{
+    margin-top: 100px;
+    padding:100px;
+    color:blue;
+
+    
+    
+}
+
+.pop{
+    width: 3000px;
+    height: 1900px;
+    border: double 30px;
+    margin-left: 1100px;
+    background: white;
+}
+
+.content{
+    padding:80px;
+    margin-top: -300px;
+
+}
+
+.set1{
+    margin-top: 20px;
+}
+
+.main_page1{
+    background-color: gray;
+    margin-top: 80px;
+}
+.border2{
+    width: 2000px;
+    height: 2200px;
+    /* border: 10px solid black; */
+    border: double 20px black;
+    /* border: dotted; */
+    padding: 150px;
+    margin-left: 1700px;
+    background: white;
+}
+
+.image2{
+    margin-top: 180px;
+    /* background: white; */
+    
+}
+
+.main_page3{
+    background-color: lightgreen;
+    margin-top: 80px;
+}
+.border3{
+    width: 2000px;
+    height: 2400px;
+    /* border: 10px solid black; */
+    border:  double;
+    padding: 150px;
+    margin-left: 1670px;
+    border: double 20px black;
+    background:white;
+}
+
+.image3{
+    margin-top: 180px;
+    /* background: white; */
+}
+
+.main_page4{
+    background-color: lightgreen;
+    margin-top: 80px;
+}
+.border4{
+    width: 2000px;
+    height: 2200px;
+    border: 10px solid black;
+    border: double 20px black;
+    /* border: dotted; */
+    padding: 150px;
+    margin-left: 1850px;
+    background:white;
+}
+
+.image4{
+    margin-top: 180px;
+}
+
+
+.main_page5{
+    background-color: lightgreen;
+    margin-top: 80px;
+}
+.border5{
+    width: 2500px;
+    height: 2200px;
+    border: 10px solid black;
+    border: double 20px black;
+    /* border: dotted; */
+    padding: 150px;
+    margin-left: 1270px;
+    background:white;
+}
+
+.image5{
+    margin-top: 180px;
+}
+.image5:hover{
+    transform: scale(1.1);
+    transform: skew(10deg);
+}
+
+.main_page6{
+    background-color: lightgreen;
+    margin-top: 80px;
+}
+.border6{
+    width: 2500px;
+    height: 2200px;
+    border: 10px solid black;
+    border: double 20px black;
+    /* border: dotted; */
+    padding: 150px;
+    margin-left: 1270px;
+    background:white;
+}
+
+.image6{
+    margin-top: 180px;
+}
+
